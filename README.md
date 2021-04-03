@@ -15,5 +15,4 @@ This program was made by Alex Bianchi and Ahmad Mujeeb in Java 11 and Javafx11
 4. Right click on the project and open module settings. Make sure that javafx is added to modules
 5. Run the class "FileServer"
 6. Run the class "FileClient"
-
-[filesharer](https://user-images.githubusercontent.com/55216478/113465787-c886f580-9404-11eb-95cc-1ad96ef89d70.PNG)
+![image](https://user-images.githubusercontent.com/55216478/113465810-ea807800-9404-11eb-8550-8f6d49956772.png)
